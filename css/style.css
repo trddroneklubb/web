@@ -13,3 +13,12 @@ main {
     font-size: 2.5rem;
     margin-bottom: 1rem;
 }
+
+.carousel .carousel-item video {
+    height: 100%;
+    width: auto;
+}
+
+.extra-top-margin {
+    margin-top: 1.25rem;
+}
